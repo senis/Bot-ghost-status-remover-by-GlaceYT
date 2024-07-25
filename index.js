@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["👀 Ieško naujų narių","🔗 www.ONBcrew.eu"];
 
 
 let currentIndex = 0;
